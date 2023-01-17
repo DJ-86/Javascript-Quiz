@@ -11,10 +11,10 @@ let questions = [
     {
         question: 'Which is a type of data type?',
         answers: [
-            { text: 'test1', correct: true },
-            { text: 'bad1', correct: false },
-            { text: 'bad2', correct: false },
-            { text: 'bad3', correct: false }
+            { text: 'Number', correct: true },
+            { text: 'Peter Pan', correct: false },
+            { text: 'Yogi Bear', correct: false },
+            { text: 'Tinkerbell', correct: false }
         ]
     },
     {

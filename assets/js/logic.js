@@ -1,6 +1,3 @@
-// links javascript pages
-
-
 let startGameButton = document.querySelector("#start");
 let homeScreen = document.querySelector("#start-screen");
 let timerDiv = document.querySelector("#time");
@@ -120,7 +117,4 @@ function gameOver() {
     });
 }
 
-
-
 startGameButton.addEventListener('click', gameLoop);
-
