@@ -5,8 +5,8 @@
 A quiz game that tests your knowledge of javascript.
 
 ## Site & Repo
-* [Site](https://dj-86.github.io/coding-quiz/)
-* [Repo](https://github.com/DJ-86/coding-quiz)
+* [Site](https://dj-86.github.io/javascript-quiz/)
+* [Repo](https://github.com/DJ-86/javascript-quiz)
 
 ## Acceptance Criteria
 Create a code quiz that contains the following requirements:
