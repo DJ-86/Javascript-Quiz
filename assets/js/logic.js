@@ -22,10 +22,8 @@ function gameLoop() {
         if(startTime <= 0 || questionPosition === questions.length) {
         //stops timer showing -numbers on game over
             timerDiv.innerHTML = 0;
-            
             clearInterval(timer);
-            gameOver();
-            
+            gameOver();    
         }
     }, 1000);
     addQuestion(); 

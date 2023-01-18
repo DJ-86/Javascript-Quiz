@@ -18,21 +18,21 @@ let questions = [
         ]
     },
     {
-        question: 'question3?',
+        question: 'Which of the following is a great place for information',
         answers: [
-            { text: 'test2', correct: true },
-            { text: 'bad1', correct: false },
-            { text: 'bad2', correct: false },
-            { text: 'bad3', correct: false }
+            { text: 'Mozilla Developer Network', correct: true },
+            { text: 'The high seas', correct: false },
+            { text: 'Davey Jones locker', correct: false },
+            { text: 'The hills', correct: false }
         ]
     },
     {
-        question: 'question4',
+        question: 'What is this? []',
         answers: [
-            { text: 'test3', correct: true },
-            { text: 'bad1', correct: false },
-            { text: 'bad2', correct: false },
-            { text: 'bad3', correct: false }
+            { text: 'Array', correct: true },
+            { text: 'String', correct: false },
+            { text: 'Integer', correct: false },
+            { text: 'Variable', correct: false }
         ]
     }
 ]
