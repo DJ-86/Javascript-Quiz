@@ -19,12 +19,13 @@ Create a code quiz that contains the following requirements:
   * When the game ends, it should display their score and give the user the ability to save their initials and their score
 
 ## Resources:
-* [find](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+* [Find](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 * [Fisher-Yates-Shuffle](https://www.tutorialspoint.com/what-is-fisher-yates-shuffle-in-javascript)
-* [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage);
+* [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 ## Screenshots
 ![Code](./assets/code.JPG);
+
 ![Screen-grab](./assets/screengrab.JPG)
 
 ## License
